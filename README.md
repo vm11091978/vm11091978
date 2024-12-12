@@ -1,6 +1,6 @@
 ## Привет, я Владимир Макаренков 👋
 
-### Разработчик на PHP и Laravel
+### Разработчик на PHP и Laravel, немного Full-Stack
 
 <!--
 **vm11091978/vm11091978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
